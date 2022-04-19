@@ -3,4 +3,4 @@
   tasks:
     - name: URI
       uri:
-        url: http://carts.sockshop.demo.amrith.me/carts/1/items/promotion/50
+        url: http://34.87.199.1/carts/1/items/promotion/50
